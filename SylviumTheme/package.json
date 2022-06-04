@@ -1,0 +1,19 @@
+{
+  "name": "Trichroma",
+  "displayName": "Trichroma",
+  "description": "It!.. (3 colors)",
+  "version": "1v",
+  "author": { "name": "Cole", "email": "garretteverage@gmail.com", "url": "_" },
+  "contributors": [
+  ],
+  "publisher": "Sylvium",
+  "license": "Basic bitch shit",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "SylviumTheme", "path": "." }
+    ]
+  }
+}
